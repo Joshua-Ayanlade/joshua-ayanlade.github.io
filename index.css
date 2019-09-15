@@ -1,0 +1,406 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    width: 1366px;
+    background-color: #EFE8E2; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    height: 2830px;
+
+
+    
+}
+
+div.bckgrd{
+    width: 1366px; 
+    
+}
+
+#logo{
+    position: absolute;
+    top: 4em;
+    left: 11em;
+}
+
+#pix{
+    position: absolute;
+    top: 25em;
+    right: 0%;
+}
+
+#bckgrd2{
+    position: absolute;
+    top: 670px;
+}
+
+ul#nav li{
+    display: inline;
+    padding: 0px 1.5em 0px 1.5em;
+    color: white;
+    
+}
+
+a.lk:hover{
+    background-color: black;
+}
+
+ul#nav{
+
+    color: white;
+    font-weight: bold;
+    font-family: arial;
+    position: absolute;
+    top: 6px;
+    width: 1320px;
+    text-align: center;
+    margin-right: 0px;
+    
+}
+
+#text{
+    position: absolute;
+    left: 4em;
+    top: 720px;
+    
+}
+
+.about{
+    width: 1366px;
+    height: 450px;
+    background-color: white;
+    box-shadow: 0px 3px 6px #00000029;
+    position: absolute;
+    top:1050px;
+
+}
+
+/* #about{
+    padding-left: 433px;
+    width: 500px;
+} */
+
+#about h2{
+    font-weight: normal;
+    text-align: center;
+
+}
+
+#about h2 span{
+    font-weight: bold;
+    
+}
+
+.text{
+    width: 1366px;
+    text-align: center;
+}
+
+
+
+
+#about p{
+    letter-spacing: .2px;
+    line-height: 30px;
+    color:rgb(102, 96, 96);
+    width: 500px;
+    margin-left: 433px;
+    text-align: left;
+    
+
+}
+.line{
+    width: 70px;
+    border-bottom: 2px solid blue;
+    margin-top: 2.5em;
+    
+}
+
+
+#hire{
+    background-color: blue;
+    border-radius: 20px;
+    width: 100px;
+    border: 2px solid blue;
+    color: white;
+    height: 30px;
+    text-align: center;
+    font-weight: bold;
+    margin-left: 433px;
+    
+}
+
+
+.sample{
+    width: 1366px;
+    height: 500px;
+    box-shadow: 0px 3px 6px #00000029;
+    position: absolute;
+    top:1500px;
+
+
+}
+
+.line{
+    width: 70px;
+    border-bottom: 2px solid blue;
+    margin-top: 2.5em;
+    /* margin-left: 648px; */
+}
+
+#sample{
+    width: 500px;
+}
+
+#sample h2{
+    font-weight: normal;
+    width: 1366px;
+    text-align: center;
+    color: black;
+    padding-bottom: 8px;
+
+}
+
+#sample h2 span{
+    font-weight: bold;
+    
+}
+
+#sample p{
+    letter-spacing: .2px;
+    line-height: 30px;
+    color:rgb(102, 96, 96);
+}
+
+
+
+
+
+div.img{
+    width: 1366px;
+    text-align: center;
+    
+}
+
+#mentme{
+    width: 180px;
+    height: 280px;
+    margin-right: 30px;
+    box-shadow: 0px 5px 10px #00000029;
+    
+    
+}
+
+#doc{
+    width: 200px;
+    height: 280px;
+    margin-left: 30px;
+    box-shadow: 0px 5px 10px #00000029;
+    
+}
+
+
+
+
+
+
+.contact{
+    width: 1366px;
+    height: 650px;
+    box-shadow: 0px 3px 6px #00000029;
+    position: absolute;
+    top:2000px;
+    background-color: white;
+    
+
+}
+
+.line{
+    width: 70px;
+    border-bottom: 2px solid blue;
+    margin-top: 2.5em;
+    margin-left: 648px;
+}
+
+#contact{
+    width: 500px;
+}
+
+#contact h2{
+    font-weight: normal;
+    width: 1366px;
+    text-align: center;
+    color: black;
+    padding-bottom: 8px;
+    
+
+}
+
+#contact h2 span{
+    font-weight: bold;
+    
+}
+
+#contact h3{
+    font-weight: normal;
+}
+
+
+#contact p{
+    letter-spacing: .2px;
+    line-height: 30px;
+    color:rgb(102, 96, 96);
+}
+
+#contact form input, textarea{
+    width: 400px;
+    height: 30px;
+    border: 2px #EFE8E2 solid;
+    border-radius:10px;
+    margin-bottom: 10px;
+    padding-left: 7px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+form textarea{
+    height:150px;
+}
+
+#send{
+    background-color: blue;
+    border-radius: 20px;
+    width: 150px;
+    border: 2px solid blue;
+    color: white;
+    height: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.get{
+    position: absolute;
+    top: 6em;
+    left: 10em;
+}
+
+
+.detail{
+    position: absolute;
+    top: 6em;
+    right: 15em;
+}
+
+.detail h3{
+    font-weight: normal;
+}
+
+.detail h5{
+    font-size: 15px;
+    margin-bottom: 1px;
+}
+
+.detail p{
+    font-weight: normal;
+    font-size: 14px;
+    color:rgb(102, 96, 96);
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer{
+    position: absolute;
+    top: 2670px;
+    text-align: center;
+    width: 800px;
+    border-top: 2px solid blue;
+    border-left: 6px solid blue;
+    border-bottom: 2px solid blue;
+    border-right: 6px solid blue;
+    left: 290px;
+    height: 50px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+
+
+#gmail{
+    width: 46px;
+    height: 46px;
+}
+
+footer{
+    color: black;
+    font-family: arial;
+    text-align: center;
+}
+
+#call{
+    position: absolute;
+    top: 1em;
+    text-decoration: none;
+    color: black;
+    padding-left: 4px;
+}
+
+
+
+ul#nav2 li{
+    margin: 6px;
+    display: inline;
+    font-size: 16px;
+    text-align: center;
+    padding: 0px 10px 0px 10px;
+}
+
+ul#nav2{
+    width: 760px;
+    text-align: center;
+}
+
+a:link{
+    text-decoration: none;
+    color: blue;
+}
+
+
+#omega{
+    width: 40px;
+    height: 60px;
+    position: absolute;
+    left: 12em;
+    top:70px;
+    
+}
+
+footer p{
+    font-size: 14px;
+    padding:0px;
+    margin: 0px;
+}
+
+.mailo{
+    text-align: left;
+    padding-left: 16.5em;
+}
+
+a.foot:link{
+    text-decoration: none;
+}
+
+a.foot:hover{
+    color: red;
+    font-weight: bold;
+    
+}
