@@ -40,6 +40,10 @@ ul#nav li{
     
 }
 
+a.lk:link{
+    text-decoration: none;
+}
+
 a.lk:hover{
     background-color: black;
 }
@@ -286,7 +290,7 @@ form textarea{
 .detail{
     position: absolute;
     top: 6em;
-    right: 15em;
+    left: 45em;
 }
 
 .detail h3{
@@ -341,9 +345,12 @@ form textarea{
 }
 
 footer{
-    color: black;
     font-family: arial;
     text-align: center;
+}
+
+footer#call{
+    color: black;
 }
 
 #call{
@@ -369,10 +376,7 @@ ul#nav2{
     text-align: center;
 }
 
-a:link{
-    text-decoration: none;
-    color: blue;
-}
+
 
 
 #omega{
