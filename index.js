@@ -5,6 +5,7 @@ const about= document.querySelector("#abt");
 const contact= document.querySelector("#contact");
 const aboutme= document.querySelector("#txt");
 const detail= document.querySelector(".detail");
+const msg= document.querySelector("#msg")
 
 
 
@@ -75,11 +76,12 @@ hire.addEventListener("mouseover", tohire)
 
 function tohire(e){
     e.preventDefault();
-    get.classList.add("error");
+    msg.innerHTML= "Fill the form below";
+    msg.classList.add("error");
 
     setTimeout(remove,3000)
     function remove(){
-        get.classList.remove("error");
+        msg.remove();
     }
 }
 

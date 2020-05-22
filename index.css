@@ -346,6 +346,13 @@ form textarea{
     height: 49px;
 }
 
+#fb{
+    width: 49px;
+    height: 49px;
+}
+
+
+
 footer{
     color: black;
     font-family: arial;
@@ -355,6 +362,11 @@ footer{
 #call{
     position: absolute;
     padding-left: 4px;
+}
+
+#fbk{
+    position: absolute;
+    left: 21.5em;
 }
 
 
@@ -414,7 +426,7 @@ a.foot:hover{
     margin-bottom: 10px;
     border: 2px solid rgb(235, 127, 127);
     background-color: rgb(235, 127, 127);
-    width: 130px;
+    width: 150px;
     padding-left: 5px;
     border-radius:20px;
 }
